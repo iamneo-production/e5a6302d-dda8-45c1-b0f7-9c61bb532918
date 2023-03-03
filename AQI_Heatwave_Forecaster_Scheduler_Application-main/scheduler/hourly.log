@@ -1,0 +1,628 @@
+Hello
+	Hourly Scheduler
+type object 'datetime.datetime' has no attribute 'then'
+Hello
+	Hourly Scheduler
+	 2023-02-28 08:52:01.809022
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-02-28 08:53:02.339577
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-02-28 08:54:01.886554
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+'datetime.time' object has no attribute 'ba'
+	Hourly Scheduler
+	 2023-02-28 08:55:02.215760
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-02-28 08:56:01.733046
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-02-28 08:57:02.132774
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-02-28 08:58:03.121847
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-02-28 08:59:04.143629
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-02-28 09:02:08.697015
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-02-28 09:02:08.695217
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-02-28 09:03:02.356833
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-02-28 10:15:03.288545
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-02-28 11:15:02.991344
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-02-28 12:15:02.737569
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-02-28 13:15:02.553941
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-02-28 14:15:02.342272
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-02-28 15:15:02.332277
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-02-28 16:15:01.707313
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-02-28 17:15:01.613452
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-02-28 18:15:01.670619
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-02-28 19:15:02.484042
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-02-28 20:15:02.283909
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-02-28 21:15:02.994999
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-02-28 22:15:03.145113
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-02-28 23:15:03.353786
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-01 00:15:02.712923
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-01 01:15:02.928215
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-01 02:15:02.213572
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-01 03:15:02.615907
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-01 04:15:02.148919
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-01 05:15:02.060307
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-01 06:15:01.673980
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-01 07:15:01.997122
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-01 08:15:02.098552
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-01 09:15:02.621715
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-01 10:15:02.759066
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-01 11:15:02.705322
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-01 12:57:32.931496
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-01 13:15:03.219900
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-01 14:15:02.913349
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-01 15:15:02.590796
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-01 16:15:02.662000
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-01 17:15:02.789726
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-01 18:15:02.915059
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-01 19:15:02.867897
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-01 20:15:02.208885
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-01 21:15:02.620590
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-01 22:32:45.146428
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-01 23:15:02.790068
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-02 00:15:03.262686
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-02 01:48:08.960098
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-02 02:15:03.225413
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-02 03:15:03.016148
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-02 04:15:02.927228
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-02 05:15:02.221886
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-02 06:15:02.901348
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-02 07:15:02.410842
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-02 08:15:02.788377
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-02 09:15:01.807615
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-02 10:15:01.956569
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-02 11:15:01.937566
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-02 12:15:01.886935
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-02 13:15:01.745509
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-02 14:15:01.844775
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-02 15:15:02.598741
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-02 16:15:02.661293
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-02 17:15:01.882807
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-02 18:15:02.108681
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-02 19:15:01.773715
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-02 20:15:02.588746
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-02 21:15:01.717766
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-02 22:15:02.309117
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-02 23:15:02.136831
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-03 00:15:02.128788
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-03 01:15:02.472730
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-03 02:15:01.872287
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-03 03:15:02.357439
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-03 04:15:02.300083
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-03 05:15:01.747156
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-03 06:15:01.856529
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-03 07:15:02.175523
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-03 08:15:02.547439
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-03 09:15:02.414732
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-03 10:15:02.383380
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-03 11:15:02.083879
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-03 12:15:02.527000
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-03 13:15:02.571828
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-03 14:15:02.658025
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
+	Hourly Scheduler
+	 2023-03-03 15:15:02.568774
+******* City - Adilabad ********
+******* City - Nizamabad ********
+******* City - Warangal ********
+******* City - Karimnagar ********
+******* City - Khammam ********
