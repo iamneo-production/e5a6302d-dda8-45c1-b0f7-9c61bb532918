@@ -14,7 +14,7 @@
 
 ## Overview
 
-AQI-Heatwave Forecaster is a web-based application that aims to predict the AQI values and Heatwave Occurrences for teir-2 cities of Telangana. It provides users with a user-friendly and features rich which enables users to seamlessly filer and analyze data.
+AQI-Heatwave Forecaster is a web-based application that aims to predict the AQI values and Heatwave Occurrences for tier-2 cities of Telangana. It provides users with a user-friendly and features rich which enables users to seamlessly filter and analyze data.
 
 ## Features
 
