@@ -3,7 +3,7 @@
 <h1> AQI-Heatwave-Forecaster-Frontend </h1>
 
 <p>
-Frotend Application  bulit for NASSCOM Hackathon 2023 using streamlit  which aims in providing interactive application for the task of predicting AQI and Heat wave occurences in Tier-2 cities of Telenagana
+Frontend Application  bulit for NASSCOM Hackathon 2023 using streamlit  which aims in providing interactive application for the task of predicting AQI and Heat wave occurences in Tier-2 cities of Telenagana
 </p>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
