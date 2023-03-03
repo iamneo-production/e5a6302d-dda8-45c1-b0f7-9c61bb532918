@@ -10,4 +10,4 @@
 <hr>
 </div>
 
-![AQI   HEATWAVE FORECASTER](https://user-images.githubusercontent.com/62739618/222815091-a41ac10a-9caa-4cd8-9f47-35c9985fbf26.png)
+![AQI   HEATWAVE FORECASTER(1)](https://user-images.githubusercontent.com/62739618/222820402-2e39e2ad-aec8-4741-8f31-293ee22647dd.png)
