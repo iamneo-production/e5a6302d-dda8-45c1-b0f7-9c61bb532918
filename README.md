@@ -1,5 +1,5 @@
 <div align="center">
-<h1> AQI-Heatwave-Forecaster
+<h1> NASSCOM HACKATHON 2023
 </h1>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
